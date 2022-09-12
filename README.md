@@ -1,4 +1,4 @@
-# Descriptive-Analysis
+# Exploratory Data Analysis
 In this notebook, we analyzed over ten thousand apps from the Google Play Store. We can use our findings to inform our decisions should we ever wish to create an app ourselves.
 
 Let's take a look at the data, which consists of two files:
