@@ -1,5 +1,5 @@
 # Exploratory Data Analysis
-In this repository has two different project in which we analyzed:
+This repository has two different project in which we analyzed:
 
 1. Over ten thousand apps from the Google Play Store.
 
