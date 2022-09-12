@@ -1,8 +1,6 @@
 # Exploratory Data Analysis
-In this notebook, we analyzed over ten thousand apps from the Google Play Store. We can use our findings to inform our decisions should we ever wish to create an app ourselves.
+In this repository has two different project in which we analyzed:
 
-Let's take a look at the data, which consists of two files:
+1. Over ten thousand apps from the Google Play Store.
 
-apps.csv: contains all the details of the applications on Google Play. There are 13 features that describe a given app.
-
-user_reviews.csv: contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed and attributed with three new features: Sentiment (Positive, Negative or Neutral), Sentiment Polarity and Sentiment Subjectivity.
+2. The real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). We will find out who has had the most influence on its development and who are the experts.
